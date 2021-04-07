@@ -125,13 +125,6 @@ $('document').ready(function() {
 	 });
 
 	
-	 //for preloader
-	 (function () {
-	    $(window).load(function() {
-	        $('#preloader-item').fadeOut();
-	        $('#preloader').delay(350).fadeOut('slow');
-	    });
-	}());
 	
 	
 	// Testimonials Carousel

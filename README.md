@@ -2,6 +2,7 @@
 This is my Personal Portfolio
 
 Danny Andrés Piedra Acuña
+
 Proyecto I: Introducción al Desarrollo de Páginas Web
 
 Instituto Tecnológico de Costa Rica
